@@ -3,7 +3,7 @@
     "name": "kikytokamuro/elm-linerbar",
     "summary": "Horizontal bar chart library",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "LinerBar",
         "LinerBarStyles"
