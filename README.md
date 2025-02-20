@@ -6,7 +6,7 @@ Small horizontal bar chart library for Elm
 
 ## How to Install
 ```sh
-elm-package install kikytokamuro/elm-linerbar
+elm install kikytokamuro/elm-linerbar
 ```
 
 ## Demo
