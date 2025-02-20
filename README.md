@@ -2,7 +2,7 @@
 
 Small horizontal bar chart library for Elm
 
-![sample](https://github.com/KikyTokamuro/elm-linerbar/raw/master/img/logo.png "Sample of Liner Bar")
+![sample](https://github.com/KikyTokamuro/elm-linerbar/raw/main/img/logo.png "Sample of Liner Bar")
 
 ## How to Install
 ```sh
